@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1641565404 source:c:\users\ramone\desktop\backupprojeto\main.cpp
+	<iostream>
+	"Sculptor.h"
+
+1641565404 c:\users\ramone\desktop\backupprojeto\include\sculptor.h
+
+1641565404 source:c:\users\ramone\desktop\backupprojeto\src\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<math.h>
+	<iomanip>
+
+1643317623 source:c:\users\ramone\desktop\aulas de c++\projeto unidade 3\main.cpp
+	<iostream>
+	"Sculptor.h"
+
+1643314427 c:\users\ramone\desktop\aulas de c++\projeto unidade 3\include\sculptor.h
+
+1644287960 source:c:\users\ramone\desktop\aulas de c++\projeto unidade 3\src\cutbox.cpp
+	"CutBox.h"
+
+1644287953 c:\users\ramone\desktop\aulas de c++\projeto unidade 3\include\cutbox.h
+	<FiguraGeometrica.h>
+
+1644289255 c:\users\ramone\desktop\aulas de c++\projeto unidade 3\include\figurageometrica.h
+	"Sculptor.h"
+
+1643316923 source:c:\users\ramone\desktop\aulas de c++\projeto unidade 3\src\cutellipsoid.cpp
+	"CutEllipsoid.h"
+
+1643316921 c:\users\ramone\desktop\aulas de c++\projeto unidade 3\include\cutellipsoid.h
+	<FiguraGeometrica.h>
+
+1643315866 source:c:\users\ramone\desktop\aulas de c++\projeto unidade 3\src\cutsphere.cpp
+	"CutSphere.h"
+
+1643315866 c:\users\ramone\desktop\aulas de c++\projeto unidade 3\include\cutsphere.h
+	<FiguraGeometrica.h>
+
+1644289343 source:c:\users\ramone\desktop\aulas de c++\projeto unidade 3\src\cutvoxel.cpp
+	"CutVoxel.h"
+
+1643314777 c:\users\ramone\desktop\aulas de c++\projeto unidade 3\include\cutvoxel.h
+	<FiguraGeometrica.h>
+
+1644287964 source:c:\users\ramone\desktop\aulas de c++\projeto unidade 3\src\putbox.cpp
+	"PutBox.h"
+
+1644287956 c:\users\ramone\desktop\aulas de c++\projeto unidade 3\include\putbox.h
+	<FiguraGeometrica.h>
+
+1644289374 source:c:\users\ramone\desktop\aulas de c++\projeto unidade 3\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1643316490 source:c:\users\ramone\desktop\aulas de c++\projeto unidade 3\src\putellipsoid.cpp
+	"PutEllipsoid.h"
+
+1643316486 c:\users\ramone\desktop\aulas de c++\projeto unidade 3\include\putellipsoid.h
+	<FiguraGeometrica.h>
+
+1643316081 source:c:\users\ramone\desktop\aulas de c++\projeto unidade 3\src\putsphere.cpp
+	"PutSphere.h"
+
+1643316105 c:\users\ramone\desktop\aulas de c++\projeto unidade 3\include\putsphere.h
+	<FiguraGeometrica.h>
+
+1643316150 source:c:\users\ramone\desktop\aulas de c++\projeto unidade 3\src\putvoxel.cpp
+	"PutVoxel.h"
+
+1643316127 c:\users\ramone\desktop\aulas de c++\projeto unidade 3\include\putvoxel.h
+	<FiguraGeometrica.h>
+
+1643317083 source:c:\users\ramone\desktop\aulas de c++\projeto unidade 3\src\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<math.h>
+	<iomanip>
+
+1644287960 source:c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\src\cutbox.cpp
+	"CutBox.h"
+
+1644287953 c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\include\cutbox.h
+	<FiguraGeometrica.h>
+
+1644289255 c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\include\figurageometrica.h
+	"Sculptor.h"
+
+1643314427 c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\include\sculptor.h
+
+1643316923 source:c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\src\cutellipsoid.cpp
+	"CutEllipsoid.h"
+
+1643316921 c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\include\cutellipsoid.h
+	<FiguraGeometrica.h>
+
+1643315866 source:c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\src\cutsphere.cpp
+	"CutSphere.h"
+
+1643315866 c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\include\cutsphere.h
+	<FiguraGeometrica.h>
+
+1644289343 source:c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\src\cutvoxel.cpp
+	"CutVoxel.h"
+
+1643314777 c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\include\cutvoxel.h
+	<FiguraGeometrica.h>
+
+1644289374 source:c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1644289452 source:c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\src\interpreter.cpp
+	"Interpreter.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	"CutBox.h"
+	"CutEllipsoid.h"
+	"CutSphere.h"
+	"CutVoxel.h"
+	"PutBox.h"
+	"PutEllipsoid.h"
+	"PutSphere.h"
+	"PutVoxel.h"
+	"Sculptor.h"
+
+1644289149 c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\include\interpreter.h
+	"FiguraGeometrica.h"
+	<vector>
+	<string>
+
+1644287956 c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\include\putbox.h
+	<FiguraGeometrica.h>
+
+1643316486 c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\include\putellipsoid.h
+	<FiguraGeometrica.h>
+
+1643316105 c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\include\putsphere.h
+	<FiguraGeometrica.h>
+
+1643316127 c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\include\putvoxel.h
+	<FiguraGeometrica.h>
+
+1644287964 source:c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\src\putbox.cpp
+	"PutBox.h"
+
+1643316490 source:c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\src\putellipsoid.cpp
+	"PutEllipsoid.h"
+
+1643316081 source:c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\src\putsphere.cpp
+	"PutSphere.h"
+
+1643316150 source:c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\src\putvoxel.cpp
+	"PutVoxel.h"
+
+1643317083 source:c:\users\ramone\desktop\aulas de c++\projeto_unidade_3\src\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<math.h>
+	<iomanip>
+
+1644291425 source:c:\users\ramone\desktop\c++\projeto_unidade_3\src\cutbox.cpp
+	"CutBox.h"
+
+1644291425 c:\users\ramone\desktop\c++\projeto_unidade_3\include\cutbox.h
+	<FiguraGeometrica.h>
+
+1644500976 c:\users\ramone\desktop\c++\projeto_unidade_3\include\figurageometrica.h
+	"Sculptor.h"
+
+1643314427 c:\users\ramone\desktop\c++\projeto_unidade_3\include\sculptor.h
+
+1644291452 source:c:\users\ramone\desktop\c++\projeto_unidade_3\src\cutellipsoid.cpp
+	"CutEllipsoid.h"
+
+1644291452 c:\users\ramone\desktop\c++\projeto_unidade_3\include\cutellipsoid.h
+	<FiguraGeometrica.h>
+
+1644291488 source:c:\users\ramone\desktop\c++\projeto_unidade_3\src\cutsphere.cpp
+	"CutSphere.h"
+
+1644291491 c:\users\ramone\desktop\c++\projeto_unidade_3\include\cutsphere.h
+	<FiguraGeometrica.h>
+
+1644289343 source:c:\users\ramone\desktop\c++\projeto_unidade_3\src\cutvoxel.cpp
+	"CutVoxel.h"
+
+1643314777 c:\users\ramone\desktop\c++\projeto_unidade_3\include\cutvoxel.h
+	<FiguraGeometrica.h>
+
+1644289374 source:c:\users\ramone\desktop\c++\projeto_unidade_3\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1644503534 source:c:\users\ramone\desktop\c++\projeto_unidade_3\src\interpreter.cpp
+	"Interpreter.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	"CutBox.h"
+	"CutEllipsoid.h"
+	"CutSphere.h"
+	"CutVoxel.h"
+	"PutBox.h"
+	"PutEllipsoid.h"
+	"PutSphere.h"
+	"PutVoxel.h"
+	"Sculptor.h"
+
+1644518762 c:\users\ramone\desktop\c++\projeto_unidade_3\include\interpreter.h
+	"FiguraGeometrica.h"
+	<vector>
+	<string>
+
+1644501482 c:\users\ramone\desktop\c++\projeto_unidade_3\include\putbox.h
+	<FiguraGeometrica.h>
+
+1644291800 c:\users\ramone\desktop\c++\projeto_unidade_3\include\putellipsoid.h
+	<FiguraGeometrica.h>
+
+1644291825 c:\users\ramone\desktop\c++\projeto_unidade_3\include\putsphere.h
+	<FiguraGeometrica.h>
+
+1644291849 c:\users\ramone\desktop\c++\projeto_unidade_3\include\putvoxel.h
+	<FiguraGeometrica.h>
+
+1644501480 source:c:\users\ramone\desktop\c++\projeto_unidade_3\src\putbox.cpp
+	"PutBox.h"
+
+1644291800 source:c:\users\ramone\desktop\c++\projeto_unidade_3\src\putellipsoid.cpp
+	"PutEllipsoid.h"
+
+1644291825 source:c:\users\ramone\desktop\c++\projeto_unidade_3\src\putsphere.cpp
+	"PutSphere.h"
+
+1644291849 source:c:\users\ramone\desktop\c++\projeto_unidade_3\src\putvoxel.cpp
+	"PutVoxel.h"
+
+1643317083 source:c:\users\ramone\desktop\c++\projeto_unidade_3\src\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<math.h>
+	<iomanip>
+
+1644504375 source:c:\users\ramone\desktop\c++\projeto_unidade_3\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<string>
+	"Interpreter.h"
+	"FiguraGeometrica.h"
+	"Sculptor.h"
+
